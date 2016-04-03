@@ -1,0 +1,106 @@
+M001-dia0-name-Mother:
+M001-dia0-line-Honey, wake up, it's time to go to school.
+M001-dia0-name-You:
+M001-dia0-line-1. Coming Mom, just a second./n2. Do I really need to go?/n3. *Cough Cough* I’m sick mom can’t go today.
+M001-dia0-name-Mother:
+M001-dia0-line-Never doubted you honey.
+M001-dia0-name-Mother:
+M001-dia0-line-Yes you do honey, education is important.
+M001-dia0-name-Mother:
+M001-dia0-line-Nice try there honey, but I know the truth.
+M001-dia0-name-Mother:
+M001-dia0-line-Now come on, it’s a quick walk straight out and to your right.
+M002-dia0-name-Mother:
+M002-dia0-line-Come on honey, you have to head off to school.
+M003-dia0-name-Mother:
+M003-dia0-line-Hope you learned a lot in school today, Character.
+T001-dia0-name-Teacher:
+T001-dia0-line-Go to your desk so we can begin class.
+T002-dia0-name-Mr. Russman:
+T002-dia0-line-I hope you enjoyed this class and learned something new today.
+SC001-dia0-name-Mr. Russman:
+SC001-dia0-line-Hello kids, welcome to Intro to Java. I’m your teacher, Mr. Russman, and today I’m going to teach you basic variables.
+SC001-dia0-name-Mr. Russman:
+SC001-dia0-line-To start, their are two types of variables, primitives, like numbers, and Objects, like words.
+SC001-dia0-name-Mr. Russman:
+SC001-dia0-line-Primitives are the most basic type, and they include all kinds of numbers from Integers to Decimals, as well as characters, which are letters and symbols.
+SC001-dia0-name-Mr. Russman:
+SC001-dia0-line-Objects are more complicated, and they include words, which are called Strings.
+SC001-dia0-name-Mr. Russman:
+SC001-dia0-line-Let’s try creating, or declaring, a variable. To do this for integers, you type “int testint;” Try this yourself.
+SC001-dia0-name-Mr. Russman:
+SC001-dia0-line-Very good. As you can see, the first defined the type of variable. Let’s try to declare a character.
+SC001-dia0-name-Mr. Russman:
+SC001-dia0-line-Amazing, you’re doing so well already.
+SC001-dia0-name-Mr. Russman:
+SC001-dia0-line-As of right now, your variables have no value. Let’s try to give them a value, by initializing it.
+SC001-dia0-name-Mr. Russman:
+SC001-dia0-line-To initialize a variable, you set it equal to an appropriate value. For example, for an Integer, you could make it the number 100.
+SC001-dia0-name-Mr. Russman:
+SC001-dia0-line-Declare a variable that shows how old you are.
+SC001-dia0-name-Mr. Russman:
+SC001-dia0-line-Very good. In case you didn’t notice, characters can only hold one character. If you want to make words, it’s time for us to learn about Strings.
+SC001-dia0-name-Mr. Russman:
+SC001-dia0-line-Strings are a little different than the primitive, but for now the only difference is that you use quotes to initialize it, “like this.”
+SC001-dia0-name-Mr. Russman:
+SC001-dia0-line-Why don’t you create a String that shows your name?
+SC001-dia0-name-Bell:
+SC001-dia0-line-*RING*
+SC001-dia0-name-Mr. Russman:
+SC001-dia0-line-Well class, that’s it for today, head on home. AND DON’T FORGET TO DO YOUR HOMEWORK!!
+SC001-dia0-name-You:
+SC001-dia0-line-I better do my chores. I have to go pick-up the groceries for my mom, check the mail, and get the trash.
+C001-dia0-name-Leeman:
+C001-dia0-line-Ah, Character, here to pickup your mother's groceries I assume.
+C001-dia0-name-Leeman:
+C001-dia0-line-1. Of course, thank you for saving them for us./n2. Yeah, yeah, just pass them to me.
+C001-dia0-name-Leeman:
+C001-dia0-line-You’re welcome.
+C001-dia0-name-You:
+C001-dia0-line-Where's the bag?
+C001-dia0-name-Leeman:
+C001-dia0-line-Try to be a little more grateful, your mom can’t get these herself you know.
+C001-dia0-name-You:
+C001-dia0-line-I'm sorry. So, where's the bag?
+C001-dia0-name-Leeman:
+C001-dia0-line-Here you go kid, try not to eat it all on the way home.
+MB001-dia0-name-Mailbox:
+MB001-dia0-name-You open the mailbox to find a couple of letters for your mom.
+MB001-dia0-name-Mailbox:
+MB001-dia0-name-Near the bottom, you find a message from your best friend, which says:
+MB001-dia0-name-Best Friend:
+MB001-dia0-name-Hey Character, why don’t you meet me at the park tomorrow.
+MB001-dia0-name-Mailbox:
+MB001-dia0-name-You close the mailbox.
+MB002-dia0-name-Mailbox:
+MB002-dia0-name-You've already checked mailbox.
+TR001-dia0-name-Trash:
+TR001-dia0-line-You deposit the trash in the bin.
+TR002-dia0-name-Trash:
+TR002-dia0-line-You've already deposited the trash in the bin.
+CR001-dia0-name-You:
+CR001-dia0-line-Great, now I just need to do my homework and go to sleep.
+HW001-dia0-name-Homework:
+HW001-dia0-line-Hey class, this assignment is an intro into outputting things.
+HW001-dia0-name-Homework:
+HW001-dia0-line-Printing things to the console is pretty simple.
+HW001-dia0-name-Homework:
+HW001-dia0-line-You just use the command, “System.out.println(String).” Try it yourself:
+HW001-dia0-name-Mother:
+HW001-dia0-line-It’s time to sleep son.
+DR001-dia0-name-Dress Sister W&G:
+DR001-dia0-line-My Sister and I are wearing the same dress.
+DR001-dia0-name-Dress Sister B&B:
+DR001-dia0-line-Only, I am the one who got the colors right.
+DR002-dia0-name-Dress Sister W&G:
+DR002-dia0-line-It's totally White and Gold.
+DR002-dia1-name-Dress Sister B&B:
+DR002-dia1-line-I let my sister believe what she wants, but we all know the true colors.
+S001-dia0-name-Student:
+S001-dia0-line-Get to your desk, class is about to start.
+S002-dia0-name-Student:
+S002-dia0-line-Wasn't that class so interesting
+DS001-dia0-name-Bancraft:
+DS001-dia0-name-Data science problems really interest me. Hopefully I can do something with it when I grow up.
+DS002-dia0-name-Bancraft:
+DS002-dia0-line-Wasn't that lesson so interesting. It's amazing what you can do with a computer.

@@ -1,0 +1,36 @@
+Tiles
+
+00 - Void
+01 - GrassTile
+02 - TreeTile
+03 - FlowerTile1
+04 - StoneTile
+05 - Corner Road Tile 1
+06 - Corner Road Tile 2
+07 - Corner Road Tile 3
+08 - Corner Road Tile 4
+09 - 4 Way Road Tile
+10 - 3 Way Road Tile 1
+11 - 3 Way Road Tile 2
+12 - 3 Way Road Tile 3
+13 - 3 Way Road Tile 4
+14 - Road Tile 1
+15 - Road Tile 2
+16 - Trash Can Tile
+17 - Wood Tile
+18 - Computer Desk Tile 1
+19 - Computer Desk Tile 2
+20 - Mailbox Tile
+21 - Bed Tile
+22 - Brick Wall Tile 1
+23 - Brick Wall Tile 2
+24 - Brick Wall Tile 3
+25 - Brick Wall Tile 4
+26 - Brick Door Way
+27 - Brick Corner 1
+28 - Brick Corner 2
+29 - Brick Corner 3
+30 - Brick Corner 4
+31 - Flower Tile 2
+32 - Shelf Tile
+33 - Cash Register Tile
